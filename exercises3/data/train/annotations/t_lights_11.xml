@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_jpg</folder>
+	<filename>t_lights_11.jpg</filename>
+	<path>C:\Users\itane\Documents\GitHub\ComputerVisionAndSensorFunsion\exercises3\data\images_jpg\t_lights_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1947</width>
+		<height>1539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>261</ymin>
+			<xmax>1315</xmax>
+			<ymax>1394</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_jpg</folder>
+	<filename>bike_6.jpg</filename>
+	<path>C:\Users\itane\Documents\GitHub\ComputerVisionAndSensorFunsion\exercises3\data\images_jpg\bike_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>617</ymin>
+			<xmax>766</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,285 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+bike_10.jpg,1200,1200,bicycle,1,379,1183,1062
+bike_11.jpg,501,282,bicycle,1,1,499,277
+bike_12.jpg,1920,1181,bicycle,14,23,1889,1153
+bike_13.jpg,1776,1080,bicycle,38,51,1733,1009
+bike_14.jpg,1480,832,bicycle,247,63,1236,786
+bike_15.jpg,2350,1200,bicycle,722,412,1368,1103
+bike_15.jpg,2350,1200,bicycle,1390,403,2166,1092
+bike_17.jpg,1599,1080,bicycle,49,19,1561,1051
+bike_18.jpg,736,575,bicycle,17,131,689,572
+bike_2.jpg,1920,1080,bicycle,841,460,1845,1025
+bike_21.jpg,2000,1333,bicycle,165,506,1641,1333
+bike_21.jpg,2000,1333,bicycle,832,652,1811,1236
+bike_22.jpg,3000,2000,bicycle,419,673,2482,1915
+bike_23.jpg,1946,1441,bicycle,19,105,1932,1339
+bike_3.jpg,1199,800,bicycle,29,7,1146,772
+bike_4.jpg,1024,768,bicycle,44,185,1024,765
+bike_5.jpg,1140,641,bicycle,357,247,787,517
+bike_6.jpg,768,1365,bicycle,80,617,766,1207
+bike_7.jpg,1200,675,bicycle,148,266,803,674
+bike_7.jpg,1200,675,bicycle,562,283,908,654
+bike_9.jpg,400,237,bicycle,1,1,400,235
+bin_1.jpg,2000,2000,trash bin,605,325,1401,1780
+bin_10.jpg,1177,1200,trash bin,203,35,1058,1190
+bin_12.jpg,5635,3934,trash bin,1895,753,3881,3929
+bin_12.jpg,5635,3934,trash bin,1257,1019,2476,3881
+bin_12.jpg,5635,3934,trash bin,595,1314,1462,3729
+bin_12.jpg,5635,3934,pedestrian,3753,5,5635,3930
+bin_15.jpg,1024,768,trash bin,3,148,388,687
+bin_15.jpg,1024,768,trash bin,383,140,773,632
+bin_15.jpg,1024,768,trash bin,640,145,997,551
+bin_16.jpg,400,400,trash bin,100,32,297,372
+bin_17.jpg,520,520,trash bin,139,120,363,459
+bin_18.jpg,1060,1200,trash bin,212,207,769,1163
+bin_19.jpg,1112,741,trash bin,301,45,771,731
+bin_20.jpg,1946,1946,trash bin,386,53,1532,1923
+bin_21.jpg,534,800,trash bin,130,163,449,754
+bin_22.jpg,800,800,trash bin,127,70,685,737
+bin_23.jpg,800,800,trash bin,176,68,628,749
+bin_24.jpg,750,422,trash bin,328,94,749,422
+bin_24.jpg,750,422,trash bin,251,60,696,422
+bin_24.jpg,750,422,trash bin,188,57,510,422
+bin_24.jpg,750,422,trash bin,132,44,424,422
+bin_24.jpg,750,422,trash bin,80,54,251,384
+bin_24.jpg,750,422,trash bin,2,30,144,265
+bin_25.jpg,2560,1706,trash bin,533,68,1522,1675
+bin_3.jpg,1024,771,trash bin,14,53,965,767
+bin_5.jpg,4943,2710,trash bin,2914,922,3824,2351
+bin_5.jpg,4943,2710,trash bin,3727,948,4682,2490
+bin_7.jpg,2300,1533,trash bin,705,370,1435,1355
+bin_8.jpg,2048,2048,trash bin,285,534,1281,1995
+bin_9.jpg,1200,800,trash bin,323,128,819,736
+bus_1.jpg,1920,1080,bus,146,58,1876,959
+bus_10.jpg,5847,3899,bus,513,1069,5365,3261
+bus_13.jpg,1595,1234,bus,223,123,1534,1072
+bus_15.jpg,976,549,bus,233,1,752,547
+bus_16.jpg,612,408,bus,153,56,556,306
+bus_18.jpg,1499,1000,bus,253,135,1275,905
+bus_19.jpg,3648,2736,bus,42,251,3576,2445
+bus_2.jpg,1800,1200,bus,303,529,653,813
+bus_2.jpg,1800,1200,bus,637,527,947,805
+bus_2.jpg,1800,1200,bus,922,482,1236,810
+bus_2.jpg,1800,1200,bus,1137,483,1547,821
+bus_21.jpg,1920,1280,bus,832,531,1636,1064
+bus_21.jpg,1920,1280,bus,1635,788,1798,925
+bus_21.jpg,1920,1280,bus,1799,830,1876,909
+bus_24.jpg,1200,600,bus,276,38,917,542
+bus_24.jpg,1200,600,bus,910,221,948,285
+bus_24.jpg,1200,600,bus,1119,220,1176,303
+bus_25.jpg,600,393,bus,39,164,565,310
+bus_4.jpg,1568,1120,bus,335,342,1187,962
+bus_6.jpg,1600,767,bus,218,281,1106,681
+bus_7.jpg,600,378,bus,243,32,476,362
+bus_8.jpg,960,720,bus,136,297,822,586
+bus_9.jpg,1200,1600,bus,165,745,1155,1223
+bus_9.jpg,1200,1600,traffic sign,1120,860,1158,1057
+car_11.jpg,650,430,car,58,82,618,331
+car_13.jpg,750,642,car,229,247,677,563
+car_14.jpg,720,437,car,71,84,621,319
+car_17.jpg,1920,1080,car,290,171,1494,830
+car_18.jpg,950,415,car,28,99,920,389
+car_19.jpg,1280,720,car,2,3,1270,703
+car_2.jpg,4333,2204,car,71,202,4193,2005
+car_20.jpg,800,573,car,44,127,746,534
+car_22.jpg,800,400,car,177,86,650,319
+car_24.jpg,1280,853,car,179,128,1007,602
+car_25.jpg,668,400,car,31,44,646,319
+car_3.jpg,640,290,car,22,34,619,273
+car_5.jpg,800,443,car,128,42,697,396
+car_6.jpg,1600,1067,car,91,144,1525,927
+car_7.jpg,570,428,car,150,182,444,324
+car_7.jpg,570,428,traffic sign,157,178,176,222
+car_7.jpg,570,428,traffic sign,21,204,35,240
+car_9.jpg,1000,563,car,129,172,873,461
+moto_1.jpg,1000,669,motorcycle,70,165,675,540
+moto_10.jpg,1920,1200,motorcycle,214,88,1734,1155
+moto_11.jpg,625,625,motorcycle,28,24,604,526
+moto_12.jpg,776,436,motorcycle,182,86,686,435
+moto_14.jpg,1200,627,motorcycle,363,199,1013,614
+moto_15.jpg,612,408,motorcycle,314,138,456,311
+moto_17.jpg,1600,900,motorcycle,153,237,807,861
+moto_18.jpg,1114,680,motorcycle,117,97,1032,655
+moto_19.jpg,4928,3280,motorcycle,585,433,4282,2927
+moto_20.jpg,1600,1438,motorcycle,116,102,1562,1304
+moto_21.jpg,1300,1005,motorcycle,185,60,973,799
+moto_23.jpg,800,532,motorcycle,35,120,754,518
+moto_3.jpg,750,562,motorcycle,84,96,679,474
+moto_4.jpg,992,487,motorcycle,264,171,551,397
+moto_4.jpg,992,487,motorcycle,430,134,790,418
+moto_5.jpg,980,676,motorcycle,84,92,924,651
+moto_6.jpg,480,600,motorcycle,253,192,479,570
+moto_7.jpg,1600,1066,motorcycle,345,261,1339,1046
+moto_9.jpg,900,900,motorcycle,12,122,900,837
+pedestrian_11.jpg,4288,2848,pedestrian,1871,1211,2380,2491
+pedestrian_11.jpg,4288,2848,pedestrian,2245,1176,2771,2479
+pedestrian_11.jpg,4288,2848,pedestrian,2648,1173,3171,2520
+pedestrian_12.jpg,1440,808,bicycle,546,336,1111,781
+pedestrian_13.jpg,612,408,pedestrian,172,77,303,301
+pedestrian_15.jpg,612,408,pedestrian,119,72,309,337
+pedestrian_15.jpg,612,408,pedestrian,474,58,526,178
+pedestrian_15.jpg,612,408,pedestrian,534,35,606,189
+pedestrian_16.jpg,2048,1366,pedestrian,359,207,667,1082
+pedestrian_17.jpg,1280,720,pedestrian,393,46,785,683
+pedestrian_17.jpg,1280,720,pedestrian,679,306,738,436
+pedestrian_17.jpg,1280,720,pedestrian,763,326,801,432
+pedestrian_17.jpg,1280,720,pedestrian,800,327,841,433
+pedestrian_17.jpg,1280,720,pedestrian,830,314,887,438
+pedestrian_17.jpg,1280,720,car,932,303,1280,473
+pedestrian_17.jpg,1280,720,traffic sign,819,208,856,308
+pedestrian_17.jpg,1280,720,traffic sign,1132,115,1222,271
+pedestrian_17.jpg,1280,720,traffic light,764,39,796,124
+pedestrian_17.jpg,1280,720,traffic light,109,1,155,65
+pedestrian_17.jpg,1280,720,traffic light,65,1,102,70
+pedestrian_18.jpg,1300,955,pedestrian,279,197,786,858
+pedestrian_18.jpg,1300,955,car,1,450,111,540
+pedestrian_18.jpg,1300,955,car,691,399,906,544
+pedestrian_18.jpg,1300,955,pedestrian,992,402,1059,505
+pedestrian_18.jpg,1300,955,pedestrian,308,437,331,502
+pedestrian_20.jpg,630,330,pedestrian,439,52,492,191
+pedestrian_20.jpg,630,330,pedestrian,482,53,532,197
+pedestrian_21.jpg,1300,1049,pedestrian,614,286,793,753
+pedestrian_21.jpg,1300,1049,pedestrian,769,260,969,772
+pedestrian_21.jpg,1300,1049,car,179,327,373,444
+pedestrian_21.jpg,1300,1049,car,343,346,450,426
+pedestrian_21.jpg,1300,1049,traffic sign,446,1,678,724
+pedestrian_22.jpg,6000,4000,pedestrian,493,350,1185,1800
+pedestrian_22.jpg,6000,4000,pedestrian,1064,383,1718,1850
+pedestrian_22.jpg,6000,4000,pedestrian,1785,346,2902,2296
+pedestrian_22.jpg,6000,4000,pedestrian,3185,446,4327,3058
+pedestrian_22.jpg,6000,4000,pedestrian,2802,88,2964,546
+pedestrian_22.jpg,6000,4000,pedestrian,2931,100,3081,567
+pedestrian_22.jpg,6000,4000,pedestrian,3039,121,3256,554
+pedestrian_22.jpg,6000,4000,car,1031,96,1806,492
+pedestrian_22.jpg,6000,4000,car,473,142,1110,525
+pedestrian_22.jpg,6000,4000,car,14,100,523,404
+pedestrian_22.jpg,6000,4000,pedestrian,4198,113,4364,463
+pedestrian_22.jpg,6000,4000,pedestrian,4343,117,4448,463
+pedestrian_22.jpg,6000,4000,pedestrian,4581,108,4689,442
+pedestrian_22.jpg,6000,4000,pedestrian,4677,96,4802,450
+pedestrian_23.jpg,3000,1937,pedestrian,443,1,1445,1444
+pedestrian_23.jpg,3000,1937,pedestrian,1313,388,1967,1438
+pedestrian_24.jpg,600,414,pedestrian,167,134,307,413
+pedestrian_24.jpg,600,414,traffic sign,463,3,578,350
+pedestrian_24.jpg,600,414,bus,332,110,507,245
+pedestrian_25.jpg,1500,1000,pedestrian,210,224,361,464
+pedestrian_25.jpg,1500,1000,pedestrian,374,116,575,586
+pedestrian_25.jpg,1500,1000,pedestrian,554,243,721,564
+pedestrian_25.jpg,1500,1000,pedestrian,750,50,1344,981
+pedestrian_25.jpg,1500,1000,car,559,181,1090,465
+pedestrian_25.jpg,1500,1000,car,1153,241,1428,411
+pedestrian_26.jpg,1904,1428,pedestrian,1029,439,1401,1384
+pedestrian_26.jpg,1904,1428,traffic light,992,136,1088,327
+pedestrian_26.jpg,1904,1428,traffic light,1074,156,1155,328
+pedestrian_26.jpg,1904,1428,traffic light,183,222,268,331
+pedestrian_26.jpg,1904,1428,traffic light,121,219,198,334
+pedestrian_26.jpg,1904,1428,traffic light,60,75,173,243
+pedestrian_26.jpg,1904,1428,pedestrian,382,389,433,521
+pedestrian_26.jpg,1904,1428,pedestrian,424,369,516,530
+pedestrian_26.jpg,1904,1428,pedestrian,658,386,723,546
+pedestrian_26.jpg,1904,1428,pedestrian,716,389,767,533
+pedestrian_26.jpg,1904,1428,pedestrian,492,377,554,472
+pedestrian_26.jpg,1904,1428,traffic light,1763,327,1826,399
+pedestrian_26.jpg,1904,1428,car,1270,362,1538,506
+pedestrian_5.jpg,600,400,pedestrian,232,155,308,341
+pedestrian_5.jpg,600,400,traffic sign,233,1,287,91
+pedestrian_6.jpg,967,734,pedestrian,653,161,886,732
+pedestrian_6.jpg,967,734,traffic light,576,75,733,230
+pedestrian_7.jpg,770,513,pedestrian,9,161,179,434
+pedestrian_7.jpg,770,513,pedestrian,211,134,406,435
+pedestrian_7.jpg,770,513,pedestrian,461,155,623,423
+pedestrian_7.jpg,770,513,pedestrian,628,156,770,421
+pedestrian_7.jpg,770,513,pedestrian,137,178,165,246
+pedestrian_7.jpg,770,513,pedestrian,163,173,193,241
+pedestrian_7.jpg,770,513,car,339,176,409,234
+pedestrian_7.jpg,770,513,car,560,180,644,249
+pedestrian_7.jpg,770,513,car,456,182,479,204
+pedestrian_7.jpg,770,513,car,644,181,701,228
+pedestrian_7.jpg,770,513,car,717,186,770,241
+pedestrian_8.jpg,1200,800,pedestrian,218,14,492,579
+pedestrian_8.jpg,1200,800,pedestrian,551,56,748,576
+pedestrian_8.jpg,1200,800,pedestrian,666,74,835,498
+pedestrian_8.jpg,1200,800,pedestrian,108,120,168,221
+pedestrian_8.jpg,1200,800,pedestrian,166,133,209,223
+pedestrian_8.jpg,1200,800,pedestrian,211,117,261,207
+pedestrian_9.jpg,608,551,pedestrian,146,149,378,551
+pedestrian_9.jpg,608,551,pedestrian,316,47,477,351
+pedestrian_9.jpg,608,551,car,128,53,446,295
+pedestrian_9.jpg,608,551,car,1,1,190,166
+pedestrian_9.jpg,608,551,car,319,10,548,257
+pedestrian_9.jpg,608,551,car,503,24,603,208
+signs_10.jpg,1600,1600,traffic sign,420,26,1127,1573
+signs_11.jpg,537,360,traffic sign,56,27,192,360
+signs_11.jpg,537,360,car,327,202,421,282
+signs_13.jpg,750,563,traffic sign,518,220,740,458
+signs_14.jpg,921,614,traffic sign,241,92,658,591
+signs_16.jpg,375,500,traffic sign,8,29,344,359
+signs_16.jpg,375,500,car,128,449,207,492
+signs_16.jpg,375,500,car,1,447,82,494
+signs_16.jpg,375,500,traffic sign,204,397,230,491
+signs_18.jpg,1071,712,traffic sign,489,32,916,682
+signs_18.jpg,1071,712,car,177,624,417,712
+signs_18.jpg,1071,712,car,470,633,655,712
+signs_2.jpg,1071,1620,traffic light,116,420,412,1015
+signs_2.jpg,1071,1620,traffic sign,366,147,712,1503
+signs_2.jpg,1071,1620,traffic sign,836,323,1026,1082
+signs_2.jpg,1071,1620,traffic sign,764,635,1026,1507
+signs_20.jpg,1125,750,traffic sign,387,139,726,641
+signs_20.jpg,1125,750,car,335,408,512,495
+signs_21.jpg,800,478,pedestrian,255,267,337,405
+signs_21.jpg,800,478,traffic sign,603,91,715,444
+signs_21.jpg,800,478,traffic sign,5,130,67,349
+signs_21.jpg,800,478,traffic sign,244,171,300,296
+signs_21.jpg,800,478,traffic sign,456,225,499,316
+signs_21.jpg,800,478,traffic sign,694,252,720,304
+signs_21.jpg,800,478,car,173,247,306,305
+signs_21.jpg,800,478,car,589,256,674,302
+signs_22.jpg,1280,1003,traffic sign,268,51,1026,1002
+signs_24.jpg,960,640,traffic sign,381,219,767,633
+signs_26.jpg,1336,1712,traffic sign,179,153,1233,1712
+signs_3.jpg,541,360,traffic sign,341,39,449,343
+signs_5.jpg,1440,972,traffic sign,374,219,771,956
+signs_6.jpg,3840,2159,traffic sign,1689,37,3249,2149
+signs_6.jpg,3840,2159,traffic sign,749,1689,1386,2159
+signs_7.jpg,468,388,traffic sign,47,32,280,366
+signs_9.jpg,1500,2000,traffic sign,763,644,1065,1126
+signs_9.jpg,1500,2000,car,1,1148,455,1577
+signs_9.jpg,1500,2000,car,406,1199,767,1456
+signs_9.jpg,1500,2000,car,616,1168,942,1373
+t_lights_10.jpg,1023,682,traffic light,292,91,594,564
+t_lights_11.jpg,1947,1539,traffic light,629,261,1315,1394
+t_lights_12.jpg,4763,3176,traffic light,2286,317,4672,2948
+t_lights_13.jpg,1920,1080,traffic light,124,1,991,1080
+t_lights_13.jpg,1920,1080,traffic light,1274,325,1570,760
+t_lights_13.jpg,1920,1080,traffic sign,1125,399,1395,686
+t_lights_15.jpg,640,853,traffic light,181,126,487,832
+t_lights_16.jpg,1024,683,traffic light,409,325,460,363
+t_lights_16.jpg,1024,683,traffic light,345,327,387,388
+t_lights_16.jpg,1024,683,traffic light,490,328,538,381
+t_lights_16.jpg,1024,683,traffic light,784,216,817,280
+t_lights_16.jpg,1024,683,traffic light,814,220,859,292
+t_lights_16.jpg,1024,683,traffic light,470,125,522,223
+t_lights_16.jpg,1024,683,traffic light,624,170,659,241
+t_lights_16.jpg,1024,683,traffic light,657,173,700,257
+t_lights_16.jpg,1024,683,traffic light,927,250,968,309
+t_lights_16.jpg,1024,683,traffic sign,195,293,249,333
+t_lights_16.jpg,1024,683,car,873,434,1024,527
+t_lights_16.jpg,1024,683,traffic sign,793,422,913,482
+t_lights_16.jpg,1024,683,traffic sign,355,434,379,452
+t_lights_16.jpg,1024,683,traffic sign,484,436,521,459
+t_lights_16.jpg,1024,683,traffic sign,437,433,473,457
+t_lights_16.jpg,1024,683,traffic sign,418,432,453,457
+t_lights_16.jpg,1024,683,traffic sign,401,434,426,457
+t_lights_18.jpg,1559,1559,traffic light,397,293,1176,1330
+t_lights_19.jpg,800,449,traffic light,194,4,467,427
+t_lights_20.jpg,550,550,traffic light,119,16,416,492
+t_lights_21.jpg,1300,953,traffic light,565,48,800,435
+t_lights_21.jpg,1300,953,traffic sign,364,429,839,791
+t_lights_22.jpg,900,500,traffic light,297,13,581,477
+t_lights_25.jpg,1280,853,traffic light,523,102,787,597
+t_lights_25.jpg,1280,853,traffic light,492,273,672,615
+t_lights_3.jpg,1920,920,traffic light,826,9,1269,871
+t_lights_4.jpg,1400,937,traffic light,710,63,1206,929
+t_lights_5.jpg,735,490,traffic light,39,29,290,446
+t_lights_6.jpg,450,338,traffic light,229,26,366,313
+t_lights_9.jpg,1024,1024,traffic light,313,63,708,849
